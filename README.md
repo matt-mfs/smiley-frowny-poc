@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/smiley-frowny-poc/tutorial)
 
 ## Edit this project
 

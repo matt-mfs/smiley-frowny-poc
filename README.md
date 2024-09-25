@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/smiley-frowny-poc/tutorial)
+* [tutorial](/smiley-frowny-poc/tutorial) [start](https://makecode.microbit.org/#tutorial:github:matt-mfs/smiley-frowny-poc/tutorial)
 
 ## Edit this project
 
